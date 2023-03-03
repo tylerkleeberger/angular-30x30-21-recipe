@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkangular_30x30_21_recipe=self.webpackChunkangular_30x30_21_recipe||[]).push([[490],{2490:(M,n,_)=>{_.r(n),_.d(n,{ShoppingModule:()=>a});var u=_(4006),l=_(8996),r=_(4111),o=_(4650);class a{}a.\u0275fac=function(s){return new(s||a)},a.\u0275mod=o.oAB({type:a}),a.\u0275inj=o.cJS({imports:[r.m,u.u5,l.Bz.forChild([])]})}}]);
